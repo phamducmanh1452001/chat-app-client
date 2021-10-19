@@ -1,0 +1,12 @@
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/chatapp
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/comments.png
+/home/manhblue/Desktop/Flutter/SpeedCode/chatapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/avatar.jpg
